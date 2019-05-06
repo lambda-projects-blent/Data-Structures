@@ -5,7 +5,7 @@ Topics:
  * Doubly Linked Lists
  * Binary Search Trees
  * Heaps
-
+/comment
 Stretch Goals:
  * Generic Heaps
  * AVL Trees
